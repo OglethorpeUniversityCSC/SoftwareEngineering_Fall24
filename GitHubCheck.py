@@ -10,5 +10,7 @@ print("Hello, Dr. Patterson figured it out!")
 
 #print("Hello, Noah figured it out too.")
 
+#print("Hello, Jose figured it out too.")
+
 #while True:
   #print("I have no clue what I am doing")
