@@ -10,5 +10,16 @@ print("Hello, Dr. Patterson figured it out!")
 
 #print("Hello, Noah figured it out too.")
 
-#while True:
-  #print("I have no clue what I am doing")
+#print("Hello, Jose figured it out too.")
+
+#print("Hello, Sofia figured it out too.")
+
+#print("Hello, Hadi figured it out too.")
+
+#print("Hello, Natalie figured it out too.")
+
+#print("Hello, Giovi figured it out too.")
+
+print("Hello, Dexter figured this out.")
+
+#print("Hello, Joselin figured it out too.")
